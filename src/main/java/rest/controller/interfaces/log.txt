@@ -1,0 +1,2 @@
+2024-09-24 18:33:02 [ERROR]: Failed to load credentials: C:\Users\Alexsa7161\eclipse-workspace\DBInterfaces\src\users.txt (Не удается найти указанный файл)
+2024-09-24 18:33:02 [ERROR]: Invalid username or password.

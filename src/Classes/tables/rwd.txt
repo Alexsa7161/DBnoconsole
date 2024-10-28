@@ -1,0 +1,7 @@
+id String value String 
+y(id,wa)
+alex alex
+fred fr
+vlad vl
+semen se
+artem vl
